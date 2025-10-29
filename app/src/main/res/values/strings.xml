@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">SkillMind</string>
+    <string name="app_title">SkillMind</string>
+    <string name="fields_email">Correo electrónico</string>
+    <string name="fields_password">Contraseña</string>
+    <string name="fields_confirm_password">Confirmar contraseña</string>
+
+
+    <string name="register_screen_text">Registro</string>
+    <string name="register_screen_register_button">Registrar</string>
+    <string name="register_screen_login_button">Iniciar sesión</string>
+
+    <string name="login_screen_text">Iniciar sesión</string>
+    <string name="login_screen_login_button">Iniciar sesión</string>
+    <string name="login_screen_register_button">¿No tienes una cuenta? Regístrate</string>
+
+    <string name="alert_title">Alerta</string>
+    <string name="unregistered_user_message">Correo no registrado. ¿Desea registrarse?</string>
+    <string name="authentication_error_message">Error de autenticación: %1$s</string>
+    <string name="empty_fields_message">Por favor, ingrese correo y contraseña</string>
+    <string name="register_button">Registrarse</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="registration_successful">¡Registro exitoso!</string>
+    <string name="login_successful">¡Inicio de sesión exitoso!</string>
+
+    <string name="login_screen_route">login</string>
+    <string name="register_screen_route">register</string>
+    <string name="salas_screen_route">salas</string>
+    <string name="register_success_title">Excelente</string>
+    <string name="welcome_title">Bienvenido</string>
+    <string name="register_error">Error al registrar:</string>
+    <string name="passwords_do_not_match">Las contraseñas no coinciden</string>
+    <string name="fill_all_fields">Por favor, rellene todos los campos</string>
+    <string name="sincodigo_back_button_desc">Botón para regresar a la pantalla anterior</string>
+    <string name="sincodigo_question">Elige una opción para crear tu cuestionario</string>
+    <string name="sincodigo_generar_preguntas">Generar pro tema</string>
+    <string name="sincodigo_ingresar_pdf">Ingresar PDF</string>
+    <string name="sincodigo_tomar_fotografia">Tomar fotografía</string>
+    <string name="pdf_screen_title">Cargar PDF</string>
+    <string name="pdf_screen_back_button_desc">Regresar</string>
+    <string name="pdf_screen_description">Seleccione un PDF para generar las preguntas</string>
+    <string name="pdf_screen_select_pdf">Seleccionar PDF</string>
+    <string name="pdf_screen_pdf_selected">PDF seleccionado: %1$s</string>
+    <string name="pdf_screen_number_of_questions">Número de preguntas</string>
+    <string name="pdf_screen_generate_questions">Generar preguntas</string>
+    <string name="pdf_screen_generating_questions">Generando preguntas...</string>
+    <string name="generar_screen_error">Error: %1$s</string>
+    <string name="pdf_screen_error_generating_questions">Error al generar preguntas desde el PDF</string>
+    <string name="camara_screen_dialog_title">Número de preguntas</string>
+    <string name="camara_screen_dialog_message">¿Cuántas preguntas deseas generar a partir de la imgen?</string>
+    <string name="generar_screen_number_of_questions_label">Número de preguntas</string>
+    <string name="generar_screen_generate">Generar</string>
+    <string name="generar_screen_cancel">Cancelar</string>
+    <string name="camara_screen_photo_failed">Error: No se pudo tomar la foto</string>
+    <string name="camara_screen_permission_denied">Permiso de cámara denegado</string>
+    <string name="camara_screen_title">Generar desde Foto</string>
+    <string name="camara_screen_take_photo">Tomar foto</string>
+    <string name="camara_screen_generating_questions">Analizando imagen y generando preguntas</string>
+    <string name="camara_screen_ready_for_photo">Presiona para tomar la foto</string>
+    <string name="generar_screen_request_sent">Solicitud enviada a la API</string>
+    <string name="generar_screen_view_summary">Ver Resumen</string>
+    <string name="generar_screen_generated_questions">Preguntas generadas:</string>
+    <string name="generar_screen_question_progress">Pregunta %1$d de %2$d</string>
+    <string name="generar_screen_previous">Anterior</string>
+    <string name="generar_screen_next">Siguiente pregunta</string>
+    <string name="generar_screen_check_answers">Comprobar respuestas</string>
+    <string name="generar_screen_results_title">Resultados</string>
+    <string name="generar_screen_results_body">Correctas = %1$d\nIncorrectas = %2$d</string>
+    <string name="generar_screen_no_keys_title">No hay claves correctas</string>
+    <string name="generar_screen_accept">Aceptar</string>
+    <string name="dialog_accept">Aceptar</string>
+    <string name="pdf_screen_no_pdf_selected">PDF seleccionado: %1$s</string>
+    <string name="generar_screen_title">Generar preguntas</string>
+    <string name="generar_screen_select_subject">Selecciona una materia</string>
+    <string name="generar_screen_math">Matemáticas</string>
+    <string name="generar_screen_language">Lenguaje</string>
+    <string name="generar_screen_other_course">Otros Temas</string>
+    <string name="generar_screen_no_questions_yet">Aún no hay preguntas generadas</string>
+    <string name="generar_screen_generate_for">Generar para: %1$s</string>
+    <string name="generar_screen_english">Inglés</string>
+    <string name="generar_screen_topic_label">Tema</string>
+
+</resources>
